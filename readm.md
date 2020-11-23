@@ -14,4 +14,4 @@ An application that allows us to generate and store passwords for various accoun
 python3.9
 ## support and contact details
 if you run into any issues or have questions,ides or conserns contact[rodneygakuru@gmail.com]
-licence MIT Copyright (c)2020 RODNEY
+ Licensed under [MIT license](LICENSE) (c)2020 RODNEY
